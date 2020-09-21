@@ -1,4 +1,4 @@
-# woodveneer
+# Wood Veneer Designer
 
 Design veneers and play with the possibilities. Start with an image of a veneer leaf, select a component part and the panel will be created with a book/butt match of the component.
 
